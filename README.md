@@ -1,8 +1,7 @@
-- 📫 How to reach me **kranatoly@gmail.com**
-
+<h3 align="left">Connect with me:</h3>
+- 📫 **kranatoly@gmail.com**
 - ⚡ Telegram **http://t.me/KrAnatoly**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
